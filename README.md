@@ -22,7 +22,7 @@ Built with Python, OpenCV, MediaPipe, and system-level keyboard events using `py
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gesture-subway-controller.git
+git clone https://github.com/MaryemHadjWannes/gesture-subway-controller.git
 cd gesture-subway-controller
 pip install -r requirements.txt
 jupyter notebook gesture_controller.ipynb
